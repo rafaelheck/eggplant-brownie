@@ -1,9 +1,9 @@
-## Conhecendo o Git PASTA UM 
+## Conhecendo o Git PASTA DOIS
 
 ##### Instalação
 
 → Site oficial: https://git-scm.com/
-
+\
 → Instalação: https://git-scm.com/downloads
 
 ##### Jogo para treinar ramificação do Git
